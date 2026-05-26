@@ -1,0 +1,109 @@
+---
+title: "Semester 2 R Files and Rmd Index"
+output: html_document
+---
+
+# Semester 2
+
+## Week 2.14: Bootstrapping
+
+Learning objectives:
+
+- Explain the concept of bootstrapping
+- Recognise situations where bootstrapping is useful
+
+## Week 2.13: Cluster Analysis
+
+Learning objectives:
+
+- Explain how clustering works (`k`-means, hierarchical clustering)
+- Discuss the choices that need to be made when tackling a clustering problem
+- Explain how supervised machine learning works (classification)
+- How to simply evaluate a classification method
+
+## Week 2.11: Bayesian Inference
+
+Learning objectives:
+
+- Explain what "belief" means to a Bayesian statistician
+- Define the terms "prior" and "posterior"
+- Specify prior probabilities and distributions
+- Use Bayes' theorem to determine posterior probabilities
+- Describe the difference between Bayesian and Frequentist statistic
+
+## Week 2.10: Conditional Probability
+
+Learning outcomes:
+
+- Recall how to compute conditional probabilities
+- Visualise joint probabilities using Euler diagrams and probability trees
+- State Bayes' theorem (more details next week)
+- Describe and use Markov chains
+
+## Week 2.9: Time Series Analysis
+
+Learning objectives:
+
+- Understand what kind of data time series are and discuss the key features that make time series unique
+- Learn how to decompose time series into their components
+- Discuss basic statistical models to explain time series (white noise, random walk)
+- Understand the idea of autocorrelation of time series and discuss possible implications
+
+## Week 2.7: Correlation and Linear Regression
+
+Learning objectives:
+
+- Define what statistical models are and describe how they can be used
+- Learn the concepts of correlation and linear regressions
+- Describe the process of model selection
+- Learn how to use relevant functions in R
+
+## Week 2.6: Introduction to Computational Modelling 2
+
+Learning objectives:
+
+- Divide a variable into multiple compartments
+- Use parameters and equations to model effect curves
+- Fit model parameters based on experimental data
+
+## Week 2.5: Introduction to Computational Modelling 1
+
+Learning objectives:
+
+- Look at the relationship of modelling to science
+- Build a simple model using ordinary differential equations
+- Translate biological mechanisms into equations
+- Implement and explore the model using Python
+
+## Week 2.4: Analysing Categorical Data
+
+Learning objectives:
+
+- Describe and visualise categorical data
+- Understand and perform the chi-squared test of categorical data
+
+## Week 2.3: General Discussion and Coding Challenge Debrief
+
+Learning objectives:
+
+- Discuss our work during semester 2
+- Debrief coding challenge 1
+
+## Week 2.2: ANOVA, Part 2
+
+Learning objectives:
+
+- Explain the idea behind Analysis of Variance (ANOVA)
+- State and test the assumptions of an ANOVA
+- Use R to perform an ANOVA and appropriate post-hoc tests
+- Interpret the results of an ANOVA
+
+## Week 2.1: ANOVA, Part 1
+
+Learning objectives:
+
+- Design and interpret a simulation-based hypothesis test
+- Use a simulation-based test to compare more than two means
+- Discuss limitations of t-tests
+- Discuss problems around multiple testing
+

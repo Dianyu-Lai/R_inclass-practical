@@ -1,0 +1,12 @@
+.RData
+.Rhistory
+.Rproj.user/
+.Ruserdata
+.DS_Store
+Thumbs.db
+*.pdf
+*.docx
+*.tex
+*.png
+*.ipynb_checkpoints/
+
