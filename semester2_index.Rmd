@@ -58,23 +58,6 @@ Learning objectives:
 - Describe the process of model selection
 - Learn how to use relevant functions in R
 
-## Week 2.6: Introduction to Computational Modelling 2
-
-Learning objectives:
-
-- Divide a variable into multiple compartments
-- Use parameters and equations to model effect curves
-- Fit model parameters based on experimental data
-
-## Week 2.5: Introduction to Computational Modelling 1
-
-Learning objectives:
-
-- Look at the relationship of modelling to science
-- Build a simple model using ordinary differential equations
-- Translate biological mechanisms into equations
-- Implement and explore the model using Python
-
 ## Week 2.4: Analysing Categorical Data
 
 Learning objectives:
