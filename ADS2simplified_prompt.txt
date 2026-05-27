@@ -229,3 +229,9 @@ Do not produce many unnecessary subsections just because a template contains the
 
 When producing my answer:用中文返回
 Be concise but complete. Prefer a tailored answer over a universal template. If the question is simple, keep the structure simple. If the question is complex or the rubric is detailed, add structure only where it helps clarity.
+
+Special marking-guide traps:
+- For categorical count data, do not automatically choose chi-squared. First check whether observations are independent and categories are mutually exclusive. If the task suggests repeated button presses, repeated customers, or non-exclusive samples, explain why chi-squared/Fisher may be inappropriate and consider bootstrapping proportions instead.
+- For Mendelian inheritance questions involving sex and genotype, build the expected joint distribution if both sex and genotype are relevant, for example sex 50/50 combined with genotype 25/50/25.
+- For Bayesian diagnostic-test questions, if the question asks about sensitivity, specificity, odds, or odds ratios, calculate and interpret them explicitly, not only posterior probabilities.
+- For R Markdown exam answers, make sure the final answer includes complete visible code, readable section headers, code lines short enough to appear in the knitted PDF, and explanatory text outside code chunks.
